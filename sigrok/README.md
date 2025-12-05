@@ -1,6 +1,6 @@
 # ARINC-429 Sigrok Decoder
 
-A custom **Sigrok protocol decoder for ARINC 429**, designed to interpret bipolar-RZ ARINC signals captured by any Sigrok-compatible logic analyzer.  
+A custom **Sigrok protocol decoder for ARINC 429**, designed to interpret bipolar-RZ ARINC signals captured by Sigrok logic analyzer.  
 It reconstructs complete 32-bit ARINC words and displays all standard fields directly inside PulseView.
 
 ---
