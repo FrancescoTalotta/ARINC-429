@@ -31,7 +31,7 @@ W5500 SPI pins:
 - INT: GPIO40
 - RST: GPIO2
 
-The ARINC electrical interface is not provided by the ESP32 directly. Use suitable ARINC 429 line-driver hardware between the ESP32 GPIO/RMT outputs and the ARINC bus.
+The ARINC electrical interface is not provided by the ESP32 directly. Use low cost CD4052 analog switch between the ESP32 GPIO/RMT outputs and the ARINC bus.
 
 ## Network
 
