@@ -1,0 +1,14 @@
+build/
+.cache/
+managed_components/
+__pycache__/
+*.py[cod]
+*.pyo
+
+capture
+*.log
+*.tmp
+sdkconfig.old
+
+.DS_Store
+Thumbs.db
