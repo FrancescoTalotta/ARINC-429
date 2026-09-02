@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+firmware/.cache/
+firmware/build/
+firmware/managed_components/
+firmware/sdkconfig.old
